@@ -14,11 +14,6 @@ HAHA Wallet BOT
   - Auto Complete Available Tasks
   - Multi Accounts
 
-If you need a reliable proxy for multi-wallet automation, airdrop farming, or avoiding geo-restrictions, I recommend **Nstproxy**.  
-Affordable (from $0.1/GB), global coverage, rotation control, and anti-ban tech.
-
-🔗 [Nstproxy.com](https://www.nstproxy.com/?utm_source=vonssy) | [Telegram](https://t.me/nstproxy) | [Discord](https://discord.gg/5jjWCAmvng) | [Github](https://github.com/Nstproxy)  
-👉 Use code **VONSSY** to get **10% OFF**
 
 ## Requiremnets
 
@@ -28,10 +23,7 @@ Affordable (from $0.1/GB), global coverage, rotation control, and anti-ban tech.
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/HahaWallet-BOT.git
-   ```
-   ```bash
-   cd HahaWallet-BOT
+   git clone https://github.com/airdropbomb/HahaWallet.git && cd HahaWallet
    ```
 
 2. **Install Requirements:**
